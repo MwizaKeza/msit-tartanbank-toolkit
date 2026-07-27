@@ -18,7 +18,7 @@ called summary_ist, and append the summary line so that it would be easier to pr
 
 ### How to run it:
 > Run the setup.sh first to ensure necessary files exist and to build your report folder
-> './setup.sh'
+'./setup.sh'
 
 > Finally generate your report . You will find the report generated in reports/reportYYYY-MM-DD.txt
-> './run.sh'
+'./run.sh'
